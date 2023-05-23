@@ -11,8 +11,7 @@ public class EvenNumber {
 	    	   if(i%2==0) {
 	    		   System.out.println(i);
 	    	   }   
-	       }
-	       
+	       }       
 	}
 }
 //		int a = 5;
